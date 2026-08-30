@@ -1,0 +1,6 @@
+{
+  "name": "RideGo",
+  "description": "Your ride. Your way. Production-ready ride-hailing app with Rider, Driver, and Admin roles, real-time matching, live route simulation, pricing engine, wallets, and safety center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

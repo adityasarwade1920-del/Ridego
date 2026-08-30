@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glow Ring -->
+    <path
+        android:fillColor="#1500F5D4"
+        android:pathData="M54,54m-38,0a38,38 0 1,1 76,0a38,38 0 1,1 -76,0" />
+    
+    <!-- Outer Shield / Route Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2DD4BF"
+        android:strokeWidth="2.5"
+        android:pathData="M54,22 C68,22 80,34 80,50 C80,68 54,86 54,86 C54,86 28,68 28,50 C28,34 40,22 54,22 Z" />
+        
+    <!-- Speed Lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M38,36 L48,36 M34,44 L46,44 M36,52 L48,52" />
+
+    <!-- Ride Car Silhouette / Core Pin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,40 C47.5,40 44.5,42.5 43.8,46 L40,56 C39.5,57.5 40.5,59 42,59 L43,59 C43.5,59 44,59.5 44,60 L44,63 C44,64 45,65 46,65 L48,65 C49,65 50,64 50,63 L50,60 L58,60 L58,63 C58,64 59,65 60,65 L62,65 C63,65 64,64 64,63 L64,60 C64,59.5 64.5,59 65,59 L66,59 C67.5,59 68.5,57.5 68,56 L64.2,46 C63.5,42.5 60.5,40 57,40 Z M46,47 C46,46 47,45 48,45 L60,45 C61,45 62,46 62,47 L63,51 L45,51 Z M46,55 A2,2 0 1,1 46,55.01 Z M62,55 A2,2 0 1,1 62,55.01 Z" />
+    
+    <!-- Accent Location Dot -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,30m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+</vector>
